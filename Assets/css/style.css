@@ -1,0 +1,59 @@
+:root {
+    --light: rgb(237, 242, 245);
+    --grey: rgb(206, 206, 206);
+    --orange: rgb(248, 225, 182);
+    --blue: rgb(10, 4, 63);
+}
+
+body {
+    background-color: var(--light);
+
+}
+
+.header {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 400%;
+}
+
+#timer {
+    font-size: 200%;
+    margin: 10px 0;
+}
+
+.container {
+    display: flex;
+    flex-flow: column;
+    width: 500px;
+    margin: 100px auto;
+}
+
+.card {
+    width: 100%;
+    padding: 10px;
+    background-color: var(--orange);
+}
+
+.card h2, .card h3, .card p {
+    text-align: center;
+}
+
+button {
+    margin: 10px 30px;
+    background-color: var(--blue);
+    color: var(--light);
+    font-size: 150%;
+    border-radius: 10px;
+}
+
+#score-name {
+    margin: 0 30px;
+}
+
+.hidden {
+    display: none;
+}
