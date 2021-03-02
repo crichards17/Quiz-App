@@ -14,8 +14,8 @@ Click the "Start Game" button to begin.
 
 ## Screenshots:
 
-![A user is presented with the Start Screen upon loading the quiz](./Assets/images/Start-Screen.png)
+![A user is presented with the Start Screen upon loading the quiz](Assets/images/Start-Screen.png)
 
-![After selecting to start the game, the user is presented with a series of questions, each with multiple choice answers](./Assets/images/Example-Question.png)
+![After selecting to start the game, the user is presented with a series of questions, each with multiple choice answers](Assets/images/Example-Question.png)
 
-![Upon finishing the quiz, the user can save their score to the Scoreboard](./Assets/images/Game-Over.png)
+![Upon finishing the quiz, the user can save their score to the Scoreboard](Assets/images/Game-Over.png)
