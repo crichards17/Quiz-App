@@ -50,7 +50,7 @@ const questionSet = [
     },
 ]
 
-const startingTime = 5;
+const startingTime = 60;
 var timeRemaining;
 var timerInterval;
 var score;
